@@ -1,0 +1,13 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav li > a{
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 30px;
+    taxt-align: 30px
+}
